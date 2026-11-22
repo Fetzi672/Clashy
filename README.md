@@ -34,4 +34,5 @@ python -m pytest -q tests test_pacing.py
 ## Notes
 This material is unofficial and is not endorsed by Supercell. For more information, see Supercell's Fan Content Policy: https://supercell.com/en/fan-content-policy/
 
-Font: Lilita One, SIL Open Font License 1.1 (`backend/assets/fonts/LilitaOne-OFL.txt`).
+## License
+MIT, see [LICENSE](LICENSE). The bundled font Lilita One keeps its own license: SIL Open Font License 1.1 (`backend/assets/fonts/LilitaOne-OFL.txt`).
