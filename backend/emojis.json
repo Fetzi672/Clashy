@@ -1,0 +1,2191 @@
+{
+ "schema_version": 1,
+ "application_id": "1478730022205526089",
+ "source": "member-registry-bot application emoji set (war_attack/war_defense excluded: owner-scoped)",
+ "items": [
+  {
+   "name": "th1",
+   "id": "1573408430167949355",
+   "aliases": [
+    "1",
+    "th1",
+    "townhall:1"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th2",
+   "id": "1573408431518261330",
+   "aliases": [
+    "2",
+    "th2",
+    "townhall:2"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th3",
+   "id": "1573408433133199545",
+   "aliases": [
+    "3",
+    "th3",
+    "townhall:3"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th4",
+   "id": "1573408434685218939",
+   "aliases": [
+    "4",
+    "th4",
+    "townhall:4"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th5",
+   "id": "1573408436928909412",
+   "aliases": [
+    "5",
+    "th5",
+    "townhall:5"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th6",
+   "id": "1573408438707298304",
+   "aliases": [
+    "6",
+    "th6",
+    "townhall:6"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th7",
+   "id": "1573408440087486659",
+   "aliases": [
+    "7",
+    "th7",
+    "townhall:7"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th8",
+   "id": "1573408441848828200",
+   "aliases": [
+    "8",
+    "th8",
+    "townhall:8"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th9",
+   "id": "1573408443509772363",
+   "aliases": [
+    "9",
+    "th9",
+    "townhall:9"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th10",
+   "id": "1573408445649002546",
+   "aliases": [
+    "10",
+    "th10",
+    "townhall:10"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th11",
+   "id": "1573408447636963470",
+   "aliases": [
+    "11",
+    "th11",
+    "townhall:11"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th12",
+   "id": "1573408449558093864",
+   "aliases": [
+    "12",
+    "th12",
+    "townhall:12"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th13",
+   "id": "1573408451147862286",
+   "aliases": [
+    "13",
+    "th13",
+    "townhall:13"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th14",
+   "id": "1573408452280197151",
+   "aliases": [
+    "14",
+    "th14",
+    "townhall:14"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th15",
+   "id": "1573408454566088815",
+   "aliases": [
+    "15",
+    "th15",
+    "townhall:15"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th16",
+   "id": "1573408456415772755",
+   "aliases": [
+    "16",
+    "th16",
+    "townhall:16"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th17",
+   "id": "1573408458152218624",
+   "aliases": [
+    "17",
+    "th17",
+    "townhall:17"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "th18",
+   "id": "1573408460089991339",
+   "aliases": [
+    "18",
+    "th18",
+    "townhall:18"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "war_star",
+   "id": "1573408462040469674",
+   "aliases": [
+    "war_star"
+   ],
+   "category": "base",
+   "village": "n/a",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "no_star",
+   "id": "1573408463596429363",
+   "aliases": [
+    "no_star"
+   ],
+   "category": "base",
+   "village": "n/a",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "war_sword",
+   "id": "1573408465324605570",
+   "aliases": [
+    "war_sword"
+   ],
+   "category": "base",
+   "village": "n/a",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "war_shield",
+   "id": "1573408466909798440",
+   "aliases": [
+    "war_shield"
+   ],
+   "category": "base",
+   "village": "n/a",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "donation_up",
+   "id": "1573408468499701822",
+   "aliases": [
+    "donation_up"
+   ],
+   "category": "base",
+   "village": "n/a",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "donation_down",
+   "id": "1573408470596845619",
+   "aliases": [
+    "donation_down"
+   ],
+   "category": "base",
+   "village": "n/a",
+   "origin": "user-provided-existing-guild-emoji"
+  },
+  {
+   "name": "eq_action_figure",
+   "id": "1573408472115060912",
+   "aliases": [
+    "Action Figure",
+    "heroEquipment:Action Figure",
+    "heroEquipment:Action Figure:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_archer_puppet",
+   "id": "1573408474132381817",
+   "aliases": [
+    "Archer Puppet",
+    "heroEquipment:Archer Puppet",
+    "heroEquipment:Archer Puppet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_barbarian_puppet",
+   "id": "1573408476489719912",
+   "aliases": [
+    "Barbarian Puppet",
+    "heroEquipment:Barbarian Puppet",
+    "heroEquipment:Barbarian Puppet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_dark_crown",
+   "id": "1573408478645592328",
+   "aliases": [
+    "Dark Crown",
+    "heroEquipment:Dark Crown",
+    "heroEquipment:Dark Crown:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_dark_orb",
+   "id": "1573408480390283405",
+   "aliases": [
+    "Dark Orb",
+    "heroEquipment:Dark Orb",
+    "heroEquipment:Dark Orb:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_earthquake_boots",
+   "id": "1573408481996968007",
+   "aliases": [
+    "Earthquake Boots",
+    "heroEquipment:Earthquake Boots",
+    "heroEquipment:Earthquake Boots:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_electro_boots",
+   "id": "1573408483569700999",
+   "aliases": [
+    "Electro Boots",
+    "heroEquipment:Electro Boots",
+    "heroEquipment:Electro Boots:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_electro_fangs",
+   "id": "1573408485679304784",
+   "aliases": [
+    "Electro Fangs",
+    "heroEquipment:Electro Fangs",
+    "heroEquipment:Electro Fangs:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_eternal_tome",
+   "id": "1573408487256363282",
+   "aliases": [
+    "Eternal Tome",
+    "heroEquipment:Eternal Tome",
+    "heroEquipment:Eternal Tome:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_fire_heart",
+   "id": "1573408505585475678",
+   "aliases": [
+    "Fire Heart",
+    "heroEquipment:Fire Heart",
+    "heroEquipment:Fire Heart:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_fireball",
+   "id": "1573408514729050254",
+   "aliases": [
+    "Fireball",
+    "heroEquipment:Fireball",
+    "heroEquipment:Fireball:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_flame_blower",
+   "id": "1573408516511899748",
+   "aliases": [
+    "Flame Blower",
+    "heroEquipment:Flame Blower",
+    "heroEquipment:Flame Blower:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_frost_flake",
+   "id": "1573408518566838463",
+   "aliases": [
+    "Frost Flake",
+    "heroEquipment:Frost Flake",
+    "heroEquipment:Frost Flake:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_frozen_arrow",
+   "id": "1573408520689426674",
+   "aliases": [
+    "Frozen Arrow",
+    "heroEquipment:Frozen Arrow",
+    "heroEquipment:Frozen Arrow:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_giant_arrow",
+   "id": "1573408522618671365",
+   "aliases": [
+    "Giant Arrow",
+    "heroEquipment:Giant Arrow",
+    "heroEquipment:Giant Arrow:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_giant_gauntlet",
+   "id": "1573408524325625957",
+   "aliases": [
+    "Giant Gauntlet",
+    "heroEquipment:Giant Gauntlet",
+    "heroEquipment:Giant Gauntlet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_haste_vial",
+   "id": "1573408526582419707",
+   "aliases": [
+    "Haste Vial",
+    "heroEquipment:Haste Vial",
+    "heroEquipment:Haste Vial:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_healer_puppet",
+   "id": "1573408535428071525",
+   "aliases": [
+    "Healer Puppet",
+    "heroEquipment:Healer Puppet",
+    "heroEquipment:Healer Puppet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_healing_tome",
+   "id": "1573408537210527885",
+   "aliases": [
+    "Healing Tome",
+    "heroEquipment:Healing Tome",
+    "heroEquipment:Healing Tome:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_henchmen_puppet",
+   "id": "1573408538708017235",
+   "aliases": [
+    "Henchmen Puppet",
+    "heroEquipment:Henchmen Puppet",
+    "heroEquipment:Henchmen Puppet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_heroic_torch",
+   "id": "1573408540368834734",
+   "aliases": [
+    "Heroic Torch",
+    "heroEquipment:Heroic Torch",
+    "heroEquipment:Heroic Torch:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_hog_rider_puppet",
+   "id": "1573408542285631488",
+   "aliases": [
+    "Hog Rider Puppet",
+    "heroEquipment:Hog Rider Puppet",
+    "heroEquipment:Hog Rider Puppet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_invisibility_vial",
+   "id": "1573408565031469237",
+   "aliases": [
+    "Invisibility Vial",
+    "heroEquipment:Invisibility Vial",
+    "heroEquipment:Invisibility Vial:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_lavaloon_puppet",
+   "id": "1573408566902132856",
+   "aliases": [
+    "Lavaloon Puppet",
+    "heroEquipment:Lavaloon Puppet",
+    "heroEquipment:Lavaloon Puppet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_life_gem",
+   "id": "1573408568562950324",
+   "aliases": [
+    "Life Gem",
+    "heroEquipment:Life Gem",
+    "heroEquipment:Life Gem:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_magic_mirror",
+   "id": "1573408570572284015",
+   "aliases": [
+    "Magic Mirror",
+    "heroEquipment:Magic Mirror",
+    "heroEquipment:Magic Mirror:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_metal_pants",
+   "id": "1573408572652519575",
+   "aliases": [
+    "Metal Pants",
+    "heroEquipment:Metal Pants",
+    "heroEquipment:Metal Pants:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_meteor_staff",
+   "id": "1573408574401683486",
+   "aliases": [
+    "Meteor Staff",
+    "heroEquipment:Meteor Staff",
+    "heroEquipment:Meteor Staff:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_monolith_arrow",
+   "id": "1573408576121208914",
+   "aliases": [
+    "Monolith Arrow",
+    "heroEquipment:Monolith Arrow",
+    "heroEquipment:Monolith Arrow:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_noble_iron",
+   "id": "1573408577887150110",
+   "aliases": [
+    "Noble Iron",
+    "heroEquipment:Noble Iron",
+    "heroEquipment:Noble Iron:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_rage_gem",
+   "id": "1573408579745095680",
+   "aliases": [
+    "Rage Gem",
+    "heroEquipment:Rage Gem",
+    "heroEquipment:Rage Gem:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_rage_vial",
+   "id": "1573408582089711656",
+   "aliases": [
+    "Rage Vial",
+    "heroEquipment:Rage Vial",
+    "heroEquipment:Rage Vial:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_rocket_backpack",
+   "id": "1573408584732250204",
+   "aliases": [
+    "Rocket Backpack",
+    "heroEquipment:Rocket Backpack",
+    "heroEquipment:Rocket Backpack:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_rocket_spear",
+   "id": "1573408586678411286",
+   "aliases": [
+    "Rocket Spear",
+    "heroEquipment:Rocket Spear",
+    "heroEquipment:Rocket Spear:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_royal_gem",
+   "id": "1573408588909772841",
+   "aliases": [
+    "Royal Gem",
+    "heroEquipment:Royal Gem",
+    "heroEquipment:Royal Gem:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_seeking_shield",
+   "id": "1573408590801272934",
+   "aliases": [
+    "Seeking Shield",
+    "heroEquipment:Seeking Shield",
+    "heroEquipment:Seeking Shield:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_snake_bracelet",
+   "id": "1573408593120854036",
+   "aliases": [
+    "Snake Bracelet",
+    "heroEquipment:Snake Bracelet",
+    "heroEquipment:Snake Bracelet:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_spiky_ball",
+   "id": "1573408594941186058",
+   "aliases": [
+    "Spiky Ball",
+    "heroEquipment:Spiky Ball",
+    "heroEquipment:Spiky Ball:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_stick_horse",
+   "id": "1573408596463591664",
+   "aliases": [
+    "Stick Horse",
+    "heroEquipment:Stick Horse",
+    "heroEquipment:Stick Horse:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_stun_blaster",
+   "id": "1573408598132793364",
+   "aliases": [
+    "Stun Blaster",
+    "heroEquipment:Stun Blaster",
+    "heroEquipment:Stun Blaster:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_vampstache",
+   "id": "1573408599852712008",
+   "aliases": [
+    "Vampstache",
+    "heroEquipment:Vampstache",
+    "heroEquipment:Vampstache:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "hero_archer_queen",
+   "id": "1573408601823904025",
+   "aliases": [
+    "Archer Queen",
+    "heroes:Archer Queen",
+    "heroes:Archer Queen:home"
+   ],
+   "category": "heroes",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "hero_barbarian_king",
+   "id": "1573408603887501423",
+   "aliases": [
+    "Barbarian King",
+    "heroes:Barbarian King",
+    "heroes:Barbarian King:home"
+   ],
+   "category": "heroes",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_battle_copter",
+   "id": "1573408605871415469",
+   "aliases": [
+    "Battle Copter",
+    "heroes:Battle Copter",
+    "heroes:Battle Copter:builderBase"
+   ],
+   "category": "heroes",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_battle_machine",
+   "id": "1573408607611912333",
+   "aliases": [
+    "Battle Machine",
+    "heroes:Battle Machine",
+    "heroes:Battle Machine:builderBase"
+   ],
+   "category": "heroes",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "hero_dragon_duke",
+   "id": "1573408608979525784",
+   "aliases": [
+    "Dragon Duke",
+    "heroes:Dragon Duke",
+    "heroes:Dragon Duke:home"
+   ],
+   "category": "heroes",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "hero_grand_warden",
+   "id": "1573408610686476300",
+   "aliases": [
+    "Grand Warden",
+    "heroes:Grand Warden",
+    "heroes:Grand Warden:home"
+   ],
+   "category": "heroes",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "hero_minion_prince",
+   "id": "1573408616877265050",
+   "aliases": [
+    "Minion Prince",
+    "heroes:Minion Prince",
+    "heroes:Minion Prince:home"
+   ],
+   "category": "heroes",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "hero_royal_champion",
+   "id": "1573408635747307540",
+   "aliases": [
+    "Royal Champion",
+    "heroes:Royal Champion",
+    "heroes:Royal Champion:home"
+   ],
+   "category": "heroes",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_angry_spell",
+   "id": "1573408639983689860",
+   "aliases": [
+    "Angry Spell",
+    "spells:Angry Spell",
+    "spells:Angry Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_bat_spell",
+   "id": "1573408641602552031",
+   "aliases": [
+    "Bat Spell",
+    "spells:Bat Spell",
+    "spells:Bat Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_clone_spell",
+   "id": "1573408643729203300",
+   "aliases": [
+    "Clone Spell",
+    "spells:Clone Spell",
+    "spells:Clone Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_earthquake_spell",
+   "id": "1573408645729886228",
+   "aliases": [
+    "Earthquake Spell",
+    "spells:Earthquake Spell",
+    "spells:Earthquake Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_freeze_spell",
+   "id": "1573408647445479464",
+   "aliases": [
+    "Freeze Spell",
+    "spells:Freeze Spell",
+    "spells:Freeze Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_haste_spell",
+   "id": "1573408649240383640",
+   "aliases": [
+    "Haste Spell",
+    "spells:Haste Spell",
+    "spells:Haste Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_healing_spell",
+   "id": "1573408651102916628",
+   "aliases": [
+    "Healing Spell",
+    "spells:Healing Spell",
+    "spells:Healing Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_ice_block_spell",
+   "id": "1573408652713529434",
+   "aliases": [
+    "Ice Block Spell",
+    "spells:Ice Block Spell",
+    "spells:Ice Block Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_invisibility_spell",
+   "id": "1573408654407770273",
+   "aliases": [
+    "Invisibility Spell",
+    "spells:Invisibility Spell",
+    "spells:Invisibility Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_jump_spell",
+   "id": "1573408655741685852",
+   "aliases": [
+    "Jump Spell",
+    "spells:Jump Spell",
+    "spells:Jump Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_lightning_spell",
+   "id": "1573408658002542722",
+   "aliases": [
+    "Lightning Spell",
+    "spells:Lightning Spell",
+    "spells:Lightning Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_overgrowth_spell",
+   "id": "1573408663920709714",
+   "aliases": [
+    "Overgrowth Spell",
+    "spells:Overgrowth Spell",
+    "spells:Overgrowth Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_poison_spell",
+   "id": "1573408665929777202",
+   "aliases": [
+    "Poison Spell",
+    "spells:Poison Spell",
+    "spells:Poison Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_rage_spell",
+   "id": "1573408667817218209",
+   "aliases": [
+    "Rage Spell",
+    "spells:Rage Spell",
+    "spells:Rage Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_recall_spell",
+   "id": "1573408686175424522",
+   "aliases": [
+    "Recall Spell",
+    "spells:Recall Spell",
+    "spells:Recall Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_revive_spell",
+   "id": "1573408690755739669",
+   "aliases": [
+    "Revive Spell",
+    "spells:Revive Spell",
+    "spells:Revive Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_skeleton_spell",
+   "id": "1573408692546834482",
+   "aliases": [
+    "Skeleton Spell",
+    "spells:Skeleton Spell",
+    "spells:Skeleton Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_totem_spell",
+   "id": "1573408694257848391",
+   "aliases": [
+    "Totem Spell",
+    "spells:Totem Spell",
+    "spells:Totem Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_angry_jelly",
+   "id": "1573408696011071538",
+   "aliases": [
+    "Angry Jelly",
+    "troops:Angry Jelly",
+    "troops:Angry Jelly:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_apprentice_warden",
+   "id": "1573408697688920246",
+   "aliases": [
+    "Apprentice Warden",
+    "troops:Apprentice Warden",
+    "troops:Apprentice Warden:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_archer",
+   "id": "1573408699672961064",
+   "aliases": [
+    "Archer",
+    "troops:Archer",
+    "troops:Archer:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_baby_dragon",
+   "id": "1573408701300342951",
+   "aliases": [
+    "Baby Dragon",
+    "troops:Baby Dragon",
+    "troops:Baby Dragon:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_baby_dragon",
+   "id": "1573408703120543894",
+   "aliases": [
+    "Baby Dragon",
+    "troops:Baby Dragon",
+    "troops:Baby Dragon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_balloon",
+   "id": "1573408704793936083",
+   "aliases": [
+    "Balloon",
+    "troops:Balloon",
+    "troops:Balloon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_barbarian",
+   "id": "1573408706517925910",
+   "aliases": [
+    "Barbarian",
+    "troops:Barbarian",
+    "troops:Barbarian:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_battle_blimp",
+   "id": "1573408725027258378",
+   "aliases": [
+    "Battle Blimp",
+    "troops:Battle Blimp",
+    "troops:Battle Blimp:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_battle_drill",
+   "id": "1573408729171370234",
+   "aliases": [
+    "Battle Drill",
+    "troops:Battle Drill",
+    "troops:Battle Drill:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_beta_minion",
+   "id": "1573408730886709400",
+   "aliases": [
+    "Beta Minion",
+    "troops:Beta Minion",
+    "troops:Beta Minion:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_bomber",
+   "id": "1573408732766015525",
+   "aliases": [
+    "Bomber",
+    "troops:Bomber",
+    "troops:Bomber:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_bowler",
+   "id": "1573408734888071168",
+   "aliases": [
+    "Bowler",
+    "troops:Bowler",
+    "troops:Bowler:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_boxer_giant",
+   "id": "1573408736758730914",
+   "aliases": [
+    "Boxer Giant",
+    "troops:Boxer Giant",
+    "troops:Boxer Giant:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_cannon_cart",
+   "id": "1573408744077926521",
+   "aliases": [
+    "Cannon Cart",
+    "troops:Cannon Cart",
+    "troops:Cannon Cart:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_diggy",
+   "id": "1573408745667690527",
+   "aliases": [
+    "Diggy",
+    "troops:Diggy",
+    "troops:Diggy:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_dragon",
+   "id": "1573408747420655796",
+   "aliases": [
+    "Dragon",
+    "troops:Dragon",
+    "troops:Dragon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_dragon_rider",
+   "id": "1573408749132189726",
+   "aliases": [
+    "Dragon Rider",
+    "troops:Dragon Rider",
+    "troops:Dragon Rider:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_drop_ship",
+   "id": "1573408750688010282",
+   "aliases": [
+    "Drop Ship",
+    "troops:Drop Ship",
+    "troops:Drop Ship:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_druid",
+   "id": "1573408752500084757",
+   "aliases": [
+    "Druid",
+    "troops:Druid",
+    "troops:Druid:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_electro_dragon",
+   "id": "1573408756308381840",
+   "aliases": [
+    "Electro Dragon",
+    "troops:Electro Dragon",
+    "troops:Electro Dragon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_electro_owl",
+   "id": "1573408758212862054",
+   "aliases": [
+    "Electro Owl",
+    "troops:Electro Owl",
+    "troops:Electro Owl:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_electro_titan",
+   "id": "1573408760083521697",
+   "aliases": [
+    "Electro Titan",
+    "troops:Electro Titan",
+    "troops:Electro Titan:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_electrofire_wizard",
+   "id": "1573408764067840111",
+   "aliases": [
+    "Electrofire Wizard",
+    "troops:Electrofire Wizard",
+    "troops:Electrofire Wizard:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_flame_flinger",
+   "id": "1573408766672764979",
+   "aliases": [
+    "Flame Flinger",
+    "troops:Flame Flinger",
+    "troops:Flame Flinger:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_frosty",
+   "id": "1573408768530714744",
+   "aliases": [
+    "Frosty",
+    "troops:Frosty",
+    "troops:Frosty:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_furnace",
+   "id": "1573408787275055237",
+   "aliases": [
+    "Furnace",
+    "troops:Furnace",
+    "troops:Furnace:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_giant",
+   "id": "1573408791347724318",
+   "aliases": [
+    "Giant",
+    "troops:Giant",
+    "troops:Giant:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_goblin",
+   "id": "1573408792979177534",
+   "aliases": [
+    "Goblin",
+    "troops:Goblin",
+    "troops:Goblin:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_golem",
+   "id": "1573408794698842223",
+   "aliases": [
+    "Golem",
+    "troops:Golem",
+    "troops:Golem:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_greedy_raven",
+   "id": "1573408796473036904",
+   "aliases": [
+    "Greedy Raven",
+    "troops:Greedy Raven",
+    "troops:Greedy Raven:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_headhunter",
+   "id": "1573408798436102204",
+   "aliases": [
+    "Headhunter",
+    "troops:Headhunter",
+    "troops:Headhunter:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_healer",
+   "id": "1573408801518915735",
+   "aliases": [
+    "Healer",
+    "troops:Healer",
+    "troops:Healer:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_hog_glider",
+   "id": "1573408803205021716",
+   "aliases": [
+    "Hog Glider",
+    "troops:Hog Glider",
+    "troops:Hog Glider:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_hog_rider",
+   "id": "1573408804941340812",
+   "aliases": [
+    "Hog Rider",
+    "troops:Hog Rider",
+    "troops:Hog Rider:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_ice_golem",
+   "id": "1573408806568730644",
+   "aliases": [
+    "Ice Golem",
+    "troops:Ice Golem",
+    "troops:Ice Golem:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_ice_hound",
+   "id": "1573408808162562068",
+   "aliases": [
+    "Ice Hound",
+    "troops:Ice Hound",
+    "troops:Ice Hound:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_inferno_dragon",
+   "id": "1573408809907527771",
+   "aliases": [
+    "Inferno Dragon",
+    "troops:Inferno Dragon",
+    "troops:Inferno Dragon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_l_a_s_s_i",
+   "id": "1573408811463483464",
+   "aliases": [
+    "L.A.S.S.I",
+    "troops:L.A.S.S.I",
+    "troops:L.A.S.S.I:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_lava_hound",
+   "id": "1573408812810109099",
+   "aliases": [
+    "Lava Hound",
+    "troops:Lava Hound",
+    "troops:Lava Hound:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_log_launcher",
+   "id": "1573408815003729940",
+   "aliases": [
+    "Log Launcher",
+    "troops:Log Launcher",
+    "troops:Log Launcher:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_meteor_golem",
+   "id": "1573408816777789582",
+   "aliases": [
+    "Meteor Golem",
+    "troops:Meteor Golem",
+    "troops:Meteor Golem:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_mighty_yak",
+   "id": "1573408820158533842",
+   "aliases": [
+    "Mighty Yak",
+    "troops:Mighty Yak",
+    "troops:Mighty Yak:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_miner",
+   "id": "1573408821940846812",
+   "aliases": [
+    "Miner",
+    "troops:Miner",
+    "troops:Miner:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_minion",
+   "id": "1573408823643734208",
+   "aliases": [
+    "Minion",
+    "troops:Minion",
+    "troops:Minion:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_night_witch",
+   "id": "1573408825958998057",
+   "aliases": [
+    "Night Witch",
+    "troops:Night Witch",
+    "troops:Night Witch:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_p_e_k_k_a",
+   "id": "1573408828207145090",
+   "aliases": [
+    "P.E.K.K.A",
+    "troops:P.E.K.K.A",
+    "troops:P.E.K.K.A:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_phoenix",
+   "id": "1573408829931266152",
+   "aliases": [
+    "Phoenix",
+    "troops:Phoenix",
+    "troops:Phoenix:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_poison_lizard",
+   "id": "1573408832166826155",
+   "aliases": [
+    "Poison Lizard",
+    "troops:Poison Lizard",
+    "troops:Poison Lizard:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_power_p_e_k_k_a",
+   "id": "1573408834607648849",
+   "aliases": [
+    "Power P.E.K.K.A",
+    "troops:Power P.E.K.K.A",
+    "troops:Power P.E.K.K.A:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_raged_barbarian",
+   "id": "1573408852991545347",
+   "aliases": [
+    "Raged Barbarian",
+    "troops:Raged Barbarian",
+    "troops:Raged Barbarian:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_rocket_balloon",
+   "id": "1573408857265537049",
+   "aliases": [
+    "Rocket Balloon",
+    "troops:Rocket Balloon",
+    "troops:Rocket Balloon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_root_rider",
+   "id": "1573408859593379991",
+   "aliases": [
+    "Root Rider",
+    "troops:Root Rider",
+    "troops:Root Rider:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_ruin_witch",
+   "id": "1573408861124296857",
+   "aliases": [
+    "Ruin Witch",
+    "troops:Ruin Witch",
+    "troops:Ruin Witch:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_siege_barracks",
+   "id": "1573408863225512026",
+   "aliases": [
+    "Siege Barracks",
+    "troops:Siege Barracks",
+    "troops:Siege Barracks:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_sky_wagon",
+   "id": "1573408864915947580",
+   "aliases": [
+    "Sky Wagon",
+    "troops:Sky Wagon",
+    "troops:Sky Wagon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "bb_sneaky_archer",
+   "id": "1573408866581090404",
+   "aliases": [
+    "Sneaky Archer",
+    "troops:Sneaky Archer",
+    "troops:Sneaky Archer:builderBase"
+   ],
+   "category": "troops",
+   "village": "builderBase",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_sneaky_goblin",
+   "id": "1573408868057219275",
+   "aliases": [
+    "Sneaky Goblin",
+    "troops:Sneaky Goblin",
+    "troops:Sneaky Goblin:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_sneezy",
+   "id": "1573408873472335975",
+   "aliases": [
+    "Sneezy",
+    "troops:Sneezy",
+    "troops:Sneezy:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_spirit_fox",
+   "id": "1573408875187540183",
+   "aliases": [
+    "Spirit Fox",
+    "troops:Spirit Fox",
+    "troops:Spirit Fox:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_stone_slammer",
+   "id": "1573408877352063017",
+   "aliases": [
+    "Stone Slammer",
+    "troops:Stone Slammer",
+    "troops:Stone Slammer:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_archer",
+   "id": "1573408879147225138",
+   "aliases": [
+    "Super Archer",
+    "troops:Super Archer",
+    "troops:Super Archer:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_barbarian",
+   "id": "1573408881181327382",
+   "aliases": [
+    "Super Barbarian",
+    "troops:Super Barbarian",
+    "troops:Super Barbarian:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_bowler",
+   "id": "1573408882922098730",
+   "aliases": [
+    "Super Bowler",
+    "troops:Super Bowler",
+    "troops:Super Bowler:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_dragon",
+   "id": "1573408884620529775",
+   "aliases": [
+    "Super Dragon",
+    "troops:Super Dragon",
+    "troops:Super Dragon:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_giant",
+   "id": "1573408886738649138",
+   "aliases": [
+    "Super Giant",
+    "troops:Super Giant",
+    "troops:Super Giant:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_hog_rider",
+   "id": "1573408888613634208",
+   "aliases": [
+    "Super Hog Rider",
+    "troops:Super Hog Rider",
+    "troops:Super Hog Rider:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_miner",
+   "id": "1573408890337366057",
+   "aliases": [
+    "Super Miner",
+    "troops:Super Miner",
+    "troops:Super Miner:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_minion",
+   "id": "1573408892166344846",
+   "aliases": [
+    "Super Minion",
+    "troops:Super Minion",
+    "troops:Super Minion:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_valkyrie",
+   "id": "1573408894045126998",
+   "aliases": [
+    "Super Valkyrie",
+    "troops:Super Valkyrie",
+    "troops:Super Valkyrie:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_wall_breaker",
+   "id": "1573408899917418628",
+   "aliases": [
+    "Super Wall Breaker",
+    "troops:Super Wall Breaker",
+    "troops:Super Wall Breaker:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_witch",
+   "id": "1573408901796462755",
+   "aliases": [
+    "Super Witch",
+    "troops:Super Witch",
+    "troops:Super Witch:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_wizard",
+   "id": "1573408903822188705",
+   "aliases": [
+    "Super Wizard",
+    "troops:Super Wizard",
+    "troops:Super Wizard:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_super_yeti",
+   "id": "1573408905525076058",
+   "aliases": [
+    "Super Yeti",
+    "troops:Super Yeti",
+    "troops:Super Yeti:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_thrower",
+   "id": "1573408911757934752",
+   "aliases": [
+    "Thrower",
+    "troops:Thrower",
+    "troops:Thrower:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_troop_launcher",
+   "id": "1573408913846571008",
+   "aliases": [
+    "Troop Launcher",
+    "troops:Troop Launcher",
+    "troops:Troop Launcher:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_unicorn",
+   "id": "1573408916207837270",
+   "aliases": [
+    "Unicorn",
+    "troops:Unicorn",
+    "troops:Unicorn:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_valkyrie",
+   "id": "1573408918346932224",
+   "aliases": [
+    "Valkyrie",
+    "troops:Valkyrie",
+    "troops:Valkyrie:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_wall_breaker",
+   "id": "1573408920448536769",
+   "aliases": [
+    "Wall Breaker",
+    "troops:Wall Breaker",
+    "troops:Wall Breaker:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_wall_wrecker",
+   "id": "1573408922478575696",
+   "aliases": [
+    "Wall Wrecker",
+    "troops:Wall Wrecker",
+    "troops:Wall Wrecker:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_witch",
+   "id": "1573408924088934551",
+   "aliases": [
+    "Witch",
+    "troops:Witch",
+    "troops:Witch:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_wizard",
+   "id": "1573408926026829876",
+   "aliases": [
+    "Wizard",
+    "troops:Wizard",
+    "troops:Wizard:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_yeti",
+   "id": "1573408927620792521",
+   "aliases": [
+    "Yeti",
+    "troops:Yeti",
+    "troops:Yeti:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "th19",
+   "id": "1573408929730400407",
+   "aliases": [
+    "19",
+    "th19",
+    "townhall:19"
+   ],
+   "category": "townhall",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_portal_pendant",
+   "id": "1573408931756118036",
+   "aliases": [
+    "Portal Pendant",
+    "heroEquipment:Portal Pendant",
+    "heroEquipment:Portal Pendant:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "eq_revenge_deck",
+   "id": "1573408933471846553",
+   "aliases": [
+    "Revenge Deck",
+    "heroEquipment:Revenge Deck",
+    "heroEquipment:Revenge Deck:home"
+   ],
+   "category": "heroEquipment",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "sp_heroic_spell",
+   "id": "1573408934889394247",
+   "aliases": [
+    "Heroic Spell",
+    "spells:Heroic Spell",
+    "spells:Heroic Spell:home"
+   ],
+   "category": "spells",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_balloon_squad",
+   "id": "1573408937007648778",
+   "aliases": [
+    "Balloon Squad",
+    "troops:Balloon Squad",
+    "troops:Balloon Squad:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_barch_squad",
+   "id": "1573408955609260132",
+   "aliases": [
+    "Barch Squad",
+    "troops:Barch Squad",
+    "troops:Barch Squad:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_giant_wizard_squad",
+   "id": "1573408960202014763",
+   "aliases": [
+    "Giant Wizard Squad",
+    "troops:Giant Wizard Squad",
+    "troops:Giant Wizard Squad:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_golem_witch_squad",
+   "id": "1573408962265747527",
+   "aliases": [
+    "Golem Witch Squad",
+    "troops:Golem Witch Squad",
+    "troops:Golem Witch Squad:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_minion_squad",
+   "id": "1573408964480081961",
+   "aliases": [
+    "Minion Squad",
+    "troops:Minion Squad",
+    "troops:Minion Squad:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  },
+  {
+   "name": "tr_wall_breaker_squad",
+   "id": "1573408966338420929",
+   "aliases": [
+    "Wall Breaker Squad",
+    "troops:Wall Breaker Squad",
+    "troops:Wall Breaker Squad:home"
+   ],
+   "category": "troops",
+   "village": "home",
+   "origin": "fandom-mediawiki-api"
+  }
+ ]
+}
